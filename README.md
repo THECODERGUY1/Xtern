@@ -1,5 +1,5 @@
 # Xtern
-Xtern
+
 Google places api was used to find the places of interest in the following types: ['amusement_park','art_gallery','bar','cafe','casino','church','city_hall','hindu_temple',
 'library','museum','night_club','park','restaurant','shopping_mall','stadium','tourist_attraction','zoo']
 
